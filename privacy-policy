@@ -1,59 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy – DAILY QUIZ</title>
-</head>
-<body>
+PRIVACY POLICY
 
-<h1>Privacy Policy</h1>
+Effective date: 6 February 2026
 
-<p><strong>Effective date:</strong> 6 February 2026</p>
+This Privacy Policy applies to the Daily Quiz Android application (“the app”), published on Google Play by Rob Key (“the developer”).
 
-<p>
-This Privacy Policy applies to the <strong>DAILY QUIZ</strong> Android application
-published on Google Play by <strong>ROB KEY</strong>.
-</p>
+Information Collection and Use
 
-<h2>Information Collection and Use</h2>
-<p>
-The app may collect limited information to improve functionality and user experience.
-This includes:
-</p>
-<ul>
-  <li>Anonymous usage statistics</li>
-  <li>Advertising identifiers (for ads)</li>
-</ul>
+Daily Quiz is designed to be used by all ages. The app itself does not require users to create an account or provide personal information such as name, email address, or phone number.
 
-<h2>Advertising</h2>
-<p>
-DAILY QUIZ uses Google AdMob. AdMob may collect and use data as described in
-Google’s privacy policy.
-</p>
+The app may collect limited, non-personally identifiable information automatically to improve performance, functionality, and user experience. This may include anonymous usage statistics and technical information such as device type, operating system version, and app interaction data.
 
-<h2>Log Data</h2>
-<p>
-In case of an error, the app may collect log data such as device type, OS version,
-and usage statistics.
-</p>
+Advertising
 
-<h2>Children’s Information</h2>
-<p>
-This app does not knowingly collect personally identifiable information from children under 13.
-</p>
+Daily Quiz uses third-party advertising services, including Google AdMob. AdMob may collect and use information such as advertising identifiers, device information, and interaction data in order to display relevant ads and measure ad performance.
 
-<h2>Changes to This Policy</h2>
-<p>
-This policy may be updated from time to time. Changes will be posted on this page.
-</p>
+The collection and use of data by Google AdMob is governed by Google’s own privacy policy.
 
-<h2>Contact</h2>
-<p>
-If you have questions about this Privacy Policy, contact:
-<br>
-<strong>ROB KEY</strong><br>
+Log Data
+
+In the event of an error or crash, the app may collect log data through third-party services. This log data may include information such as device type, operating system version, the configuration of the app at the time of use, and the time and date of the error. This information is used solely for debugging and improving app stability.
+
+Children’s Information
+
+Daily Quiz does not knowingly collect personally identifiable information from children under the age of 13. If you believe that a child has provided personal information through the app, please contact the developer so that the information can be removed.
+
+Data Security
+
+Reasonable measures are taken to protect any data collected by the app. However, no method of transmission over the internet or electronic storage is completely secure, and absolute security cannot be guaranteed.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page, and the effective date will be updated accordingly. Users are encouraged to review this policy periodically.
+
+Contact Information
+
+If you have any questions or concerns about this Privacy Policy or the app, you may contact the developer at:
+
+Developer: Rob Key
 Email: your@email.com
-</p>
-
-</body>
-</html>
